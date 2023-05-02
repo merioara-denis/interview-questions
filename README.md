@@ -134,7 +134,9 @@
 - если не найден вернёт -1
 - [ ]  findIndex
 - аргумент (item, index, array) ⇒ boolean
-- если не найден вернёт -1
+- [ ]  filter
+- аргумент (item, index, array) ⇒ boolean
+- если не найден вернёт undefined
 - [ ]  find
 - аргумент (item, index, array) ⇒ boolean
 - если не найден вернёт undefined
